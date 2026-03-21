@@ -88,7 +88,6 @@ Locke — GDI officer and Nick Parker's superior in Renegade
 Mendoza — Nod commander in Renegade; one of the key antagonists Parker faces during the Black Hand infiltration
 Nick Parker — Elite GDI commando known as Havoc; protagonist of Renegade and a one-man wrecking crew
 Premier Romanov — Soviet Premier and figurehead antagonist in Red Alert 2; fronts for Yuri's scheme
-Seth — Kane's ambitious Nod lieutenant in Tiberian Dawn; executed by Kane for issuing unauthorized orders
 Tratos — Leader of the Forgotten mutant faction in Tiberian Sun; seeks peace but is killed for it
 Volkov — Experimental GDI cyborg commando from Covert Operations; nearly indestructible field asset
 Yuri — Soviet psychic mastermind who manipulates the war from within before launching his own world domination scheme
@@ -99,7 +98,6 @@ Bill Rizer — Elite soldier and primary Contra protagonist; battles Red Falcon'
 Browny — Small robotic Hard Corps operative with rapid movement and a surprisingly large arsenal
 Lance Bean — Bill's partner and co-protagonist; equally relentless and capable against alien invaders
 Mad Dog — Commando operative in Hard Corps; one of four selectable soldiers in the futuristic setting
-Scorpion — Cyborg Hard Corps operative with mechanical enhancements suited for high-speed assault
 Sully — Commando in Super Contra; joins Jimbo as the second playable soldier in the arcade sequel
 
 ### Desperado
@@ -267,7 +265,6 @@ Liquid Snake — Eli; Solid Snake's twin and the saga's most charismatic antagon
 Master Miller — Delta Force trainer and Snake's mentor; appears throughout MGS1's codec and is already dead by the time you hear him
 Otacon — Hal Emmerich; pacifist otaku turned Philanthropy co-founder who cries at everything and hacks everything
 Psycho Mantis — Telepathic FOXHOUND operative who reads your memory card, moves your controller, and breaks the fourth wall
-Raiden — Jack; begins as the Tanker-Plant rookie, returns as a lightning-powered cyborg ninja in MGS4 and Rising
 Revolver Ocelot — Adamska; the saga's consummate triple-crosser whose loyalties run deeper than anyone suspected
 Skull Face — XOF commander disfigured by nuclear fire; fanatical anti-American language terrorist with a nuclear arsenal
 Solidus Snake — George Sears; former US President, third Big Boss clone, and the Sons of the Patriots' secret architect
