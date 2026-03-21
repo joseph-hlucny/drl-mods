@@ -62,7 +62,7 @@ This list includes all names from the DRL version of the game, but also includes
 
 ---
 
-## Extended list of names in the mod (AI-generated)
+## Expanded list of names in the mod (AI-generated)
 
 ### Blade
 
